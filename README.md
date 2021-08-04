@@ -1,9 +1,13 @@
 # Description of The Application
 
 Features: 
-- Store the items in an array of objects 
-- Todo component should display the title, description
-- Can delete this item,  add new items to the to-do list, edit items, and have a way to mark the item as finished.
+- Store the items in an array of objects  and on local storage
+- Todo component displays the title, description
+- Can delete items, add new items to the to-do list, edit items, and have a way to mark the item as finished.
+
+
+
+
 
 # Getting Started with Create React App
 
